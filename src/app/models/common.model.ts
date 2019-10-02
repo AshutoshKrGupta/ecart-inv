@@ -1,0 +1,1 @@
+export const myImg = { "TV":"../../../assets/img/tv.jpg", "Mobile":"../../../assets/img/mobile.png" };

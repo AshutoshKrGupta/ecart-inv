@@ -1,0 +1,5 @@
+  <div class="flex-space">
+    <div *ngFor="let prod of products">
+      <cards (click)="addProduct(prod)" [item]="prod.name"></cards>
+    </div>
+  </div>
